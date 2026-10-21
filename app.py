@@ -1,3 +1,4 @@
+# KR2: Solotkin
 import os
 import socket
 import redis
